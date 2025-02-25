@@ -19,7 +19,7 @@ int main (){
     int usrAge;
     float usrHeight;
 
-    cout << "Hello, the following program will ask you to input some of your personal info for out database\n";
+    cout << "Hello, the following program will ask you to input some of your personal info for our database\n";
     cout << "Write a name of your choosing: \n";
     getline(cin,usrName);
     cout << "Write one of your last names: \n";
